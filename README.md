@@ -14,7 +14,7 @@ To extend the analysis, I reframed jet fuel prices into a supervised ML problem 
 - Captures nonlinear patterns better than ARIMA/SARIMA  
 - Achieved strong alignment between actual and predicted values  
 
-![Fuel Forecast](xgboost_fuel_forecast.png)
+![Fuel Forecast](download.png)
 
 
 ## 📊 Key Visuals
