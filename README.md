@@ -6,6 +6,17 @@ This project explores **Major League Baseball (MLB) team travel schedules** and 
 
 ---
 
+09/10/25 Update:
+### 🔮 XGBoost Fuel Price Forecasting
+
+To extend the analysis, I reframed jet fuel prices into a supervised ML problem and trained an **XGBoost regressor** with lag and rolling-window features.
+
+- Captures nonlinear patterns better than ARIMA/SARIMA  
+- Achieved strong alignment between actual and predicted values  
+
+![Fuel Forecast](xgboost_fuel_forecast.png)
+
+
 ## 📊 Key Visuals
 
 ### 1. Fuel Price Trends Over Time
